@@ -44,7 +44,7 @@ PHPとMySQLを使用して作成した、在庫管理ログインシステムで
 - パスワード：`Test1234`
 
 ## 🛠 使用技術
-- PHP 8.x
+- PHP 8.4.11
 - MySQL
 - HTML / CSS
 - GitHub
